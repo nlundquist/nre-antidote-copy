@@ -1,0 +1,19 @@
+{
+  "name": "nre-antidote-copy",
+  "version": "1.0.0",
+  "description": "All the text required for the Antidote platform components used the NRE Labs site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlundquist/nre-antidote-copy.git"
+  },
+  "author": "Nils Lundquist",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nlundquist/nre-antidote-copy/issues"
+  },
+  "homepage": "https://github.com/nlundquist/nre-antidote-copy#readme"
+}
