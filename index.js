@@ -63,7 +63,7 @@ export default {
   'lab.guidance.modal.video.title': 'Lesson Video',
   'lab.guidance.modal.objective.title': 'Lesson Objective',
   'lab.guidance.modal.close.button.label': 'Close',
-  'lab.modal.loading.messages': [
+  'lab.loading.modal.rolling.messages': [
     "Sweeping technical debt under the rug...",
     "Definitely not mining cryptocurrency in your browser...",
     "Duct-taping 53 javascript frameworks together...",
