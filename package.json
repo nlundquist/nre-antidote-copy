@@ -1,7 +1,7 @@
 {
-  "name": "nre-antidote-copy",
+  "name": "nre-antidote-localization",
   "version": "1.0.0",
-  "description": "All the text required for the Antidote platform components used the NRE Labs site.",
+  "description": "The localization used by the NRE-branded deployment of Antidote",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
