@@ -58,6 +58,7 @@ export default {
   'lab.tab.switcher.guide.tab.label': 'Guide',
   'lab.guidance.buttons.diagram.label': 'Diagram',
   'lab.guidance.buttons.video.label': 'Video',
+  'lab.guidance.buttons.exit.label': 'Exit Lesson',
   'lab.guidance.modal.diagram.title': 'Lesson Diagram',
   'lab.guidance.modal.diagram.alt': 'lesson diagram',
   'lab.guidance.modal.video.title': 'Lesson Video',
