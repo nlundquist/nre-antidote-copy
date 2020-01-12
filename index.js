@@ -85,5 +85,6 @@ export default {
   'lab.stage.selector.previous.button.label': '< Previous>',
   'lab.stage.selector.next.button.label': 'Next >',
   'lab.stage.selector.tooltip.label': ({ i }) => `Part ${i}`,
-  'ptr.banner.realm.label': 'NRE Labs Public Test Realm.'
+  'ptr.banner.realm.label': 'NRE Labs Public Test Realm.',
+  'promoted.lessons.title': 'Promoted Workflow Lessons:'
 }
