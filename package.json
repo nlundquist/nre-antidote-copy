@@ -1,6 +1,6 @@
 {
   "name": "nre-antidote-localization",
-  "version": "1.0.0",
+  "version": "master",
   "description": "The localization used by the NRE-branded deployment of Antidote",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nlundquist/nre-antidote-copy.git"
+    "url": "git+https://github.com/nre-learning/nre-antidote-localization.git"
   },
   "author": "Nils Lundquist",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nlundquist/nre-antidote-copy/issues"
+    "url": "https://github.com/nre-learning/nre-antidote-localization/issues"
   },
-  "homepage": "https://github.com/nlundquist/nre-antidote-copy#readme"
+  "homepage": "https://github.com/nre-learning/nre-antidote-localization#readme"
 }
