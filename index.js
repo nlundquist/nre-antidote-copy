@@ -11,7 +11,7 @@ export default {
   'advisor.subtitle': 'Get a customized lesson path',
   'advisor.placeholder': 'I want to learn...',
   'advisor.button.label': 'Search Lesson Content',
-  'advisor.prompt': 'Use the box above to say what you want to learn, and we’ll work with you to build a relevant learning path. Try “Python” or “StackStorm”!',
+  'advisor.prompt': 'Use the box above to say what you want to learn, and we’ll work with you to build a relevant learning path. Try “Ansible” or “Git”!',
   'catalog.filters.category.label': 'Category',
   'catalog.filters.category.placeholder': 'Label',
   'catalog.filters.tags.label': 'Tags',
